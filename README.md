@@ -118,15 +118,7 @@ O armazenamento inclui nomes, e-mails e qualificações; use **dados fictícios 
 
 Imagem demonstrativa em `docs/assets/tela-principal-teste.png`: teste da interface com dados de ensaio, não registro de usuário real.
 
-## Documentação de engenharia
+## Autores
+Francisco Xavier Duarte Pereira Neto e Paulo Victor da Cunha Balthar.
 
-- [PRD](docs/PRD.md)
-- [Design system](docs/DESIGN_SYSTEM.md)
-- [Arquitetura](docs/ARCHITECTURE.md)
-- [Banco de dados](docs/DATABASE.md)
-- [Segurança](docs/SECURITY.md)
-- [Padrão de código](docs/CODE_STYLE.md)
-- [Testes](docs/TESTING.md)
-- [Guia para agentes](docs/AGENTS.md)
-
-Projeto acadêmico Sconnect — Engenharia de Software — Práticas Extensionistas IV.
+## Projeto acadêmico Sconnect — Engenharia de Software — Práticas Extensionistas IV.
