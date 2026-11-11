@@ -1,0 +1,12 @@
+{
+  "name": "sconnect-mvp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sconnect PEI IV - MVP acadêmico, sem dependências externas",
+  "engines": { "node": ">=22.13.0" },
+  "scripts": {
+    "start": "node --experimental-sqlite server.js",
+    "dev": "node --watch --experimental-sqlite server.js",
+    "test": "node --experimental-sqlite --test tests/*.test.js"
+  }
+}
